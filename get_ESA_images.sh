@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# TEST download new pics from ESA Image of the week into ~/Pictures/ESA/images
+# download new pics from ESA Image of the week into ~/Pictures/ESA/images
 
 cd ~/Pictures/ESA; rm ~/Pictures/ESA/ESA_LINKS.txt
 
